@@ -1,0 +1,17 @@
+{
+  "name": "completeyoutube_project",
+  "version": "1.0.0",
+  "description": "this the complete project of nodejs which will cover all youtube functiolity",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemone src/index.js"
+  },
+  "author": "Naveed Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
+  }
+}
